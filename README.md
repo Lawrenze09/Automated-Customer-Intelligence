@@ -27,7 +27,7 @@ Scalability Proof: Although capped to preserve Make.com credits, the architectur
 The Process Flow:
 
   Core System Architecture (The Intelligence Pipeline)
-![Workflow Part 1](./1st%20part%20Workflow.png)
+![Workflow Part 1](./1st%20part-Workflow.png)
 
 Gmail Monitoring: The system actively watches for unread emails from a specific testing alias (d34d.aw4k3@gmail.com).
 
@@ -57,7 +57,7 @@ Loop Prevention (Status Update): After the email is successfully sent, the syste
 3 Final Output & Results
 
   The Central Intelligence Hub (Notion)
-![Notion Database](./Notion%20Data.png)
+![Notion Database](./Notion-Data.png)
 
 This database serves as the "System of Record" where all AI drafts are audited and stored before final delivery.
 
