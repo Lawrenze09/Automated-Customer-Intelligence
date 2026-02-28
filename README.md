@@ -61,6 +61,7 @@ Loop Prevention (Status Update): After the email is successfully sent, the syste
 
 This database serves as the "System of Record" where all AI drafts are audited and stored before final delivery.
 
-  Check Out My Other Projects
-  
-[AI-Invoice-Automation-Pipeline](https://github.com/Lawrenze09/AI-Invoice-Automation-Pipeline) - Automating bulk extraction of 100+ records from messy PDFs into Notion.
+Beyond automation, I engineered a system to quantify the exact value of this pipeline. Click the link below to see the formula and calculations I used
+to track the Total time saved, Value created and the ROI.
+
+[**View Live ROI Dashboard**](https://github.com/Lawrenze09/ROI-Operations-Dashboard)
